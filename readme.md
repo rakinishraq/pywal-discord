@@ -9,6 +9,7 @@ Pywal-discord is a tool that makes and applies theme to discord with colors gene
 
 #### Works on:
 
+- Windows
 - Linux
 - MacOS
 
